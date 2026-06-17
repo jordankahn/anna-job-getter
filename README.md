@@ -9,18 +9,36 @@ A lean, AI-assisted job-search command center for **Anna Brown** (Chicago, IL) �
 
 ## How to use it
 
-### A) Search for new jobs
-Run the search workflow in [`workflows/job-search.md`](workflows/job-search.md). Output lands in [`search-results/`](search-results/) as dated reports with graded, filtered listings.
+### Primary flow — the Google Sheet
+Everything runs through one Google Sheet, **"Anna Job Tracker"** (in the
+`Anna Job Search` Drive folder), with three tabs:
+- **Start Here** — instructions.
+- **My Job Links** — *Anna pastes job URLs here*, one per row.
+- **Claude-Sourced Jobs** — *jobs Claude found*, posted within the last 7 days.
 
-### B) Process a single listing (the "paste a link" flow)
-Give Claude Code a job URL and say: **"Process this listing for Anna."**
-Claude follows [`workflows/process-listing.md`](workflows/process-listing.md):
-1. Fetches + parses the posting (title, org, location, salary, must-have keywords).
-2. Checks it against the hard filters.
-3. Writes an A–F evaluation.
-4. Generates a tailored resume (keyword-mirrored to the posting).
-5. Generates a cover letter **only if the posting requires one**, in Anna's voice.
-6. Saves Markdown to `jobs/<slug>/` and creates editable **Google Docs** in Drive for review.
+Then say **"check the sheet."** Claude reads the **My Job Links** tab, processes
+every new link (see [`workflows/sheet-intake.md`](workflows/sheet-intake.md)), and
+files tailored materials in an organized Drive structure:
+```
+Anna Job Search/Applications/<Org> - <Role>/
+    Resume · Cover Letter · Evaluation   (editable Google Docs)
+```
+Status and links are logged in [`TRACKER.md`](TRACKER.md) (the source of truth) and
+mirrored as markdown in `jobs/<slug>/`.
+
+### B) Search for new jobs
+Run [`workflows/job-search.md`](workflows/job-search.md) (past-7-days filter).
+Output lands in [`search-results/`](search-results/) and the **Claude-Sourced
+Jobs** tab.
+
+### C) Process a single link directly
+Give Claude a job URL and say **"Process this listing for Anna"** to run
+[`workflows/process-listing.md`](workflows/process-listing.md) without the sheet.
+
+> **Tooling note:** the Drive integration can create + read files but cannot edit
+> a Sheet's cells in place, or move/delete files. So status lives in `TRACKER.md`
+> and the `Applications/` folders, not written back into the sheet. See
+> `workflows/sheet-intake.md`.
 
 ## Hard filters (every listing must pass all)
 - **Salary:** minimum **$50,000/year**. Listed salary preferred and prioritized.
@@ -29,10 +47,12 @@ Claude follows [`workflows/process-listing.md`](workflows/process-listing.md):
 
 ## Repo layout
 ```
+TRACKER.md    Master log of every job + status + links (source of truth)
 profile/      Anna's canonical master profile (source of truth for all tailoring)
+config/       Drive folder/sheet IDs (drive-locations.md)
 sources/      Curated niche job boards + standing search links
 templates/    Resume base + cover-letter voice guide + structures
-workflows/    Step-by-step SOPs: job-search, process-listing
+workflows/    SOPs: sheet-intake, job-search, process-listing
 search-results/  Dated search reports
 jobs/         One folder per processed listing (eval + resume + cover letter)
 ```
