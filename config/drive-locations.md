@@ -10,7 +10,13 @@ regenerated.
   https://drive.google.com/drive/folders/1SU6qQ0iKWfMMMz0-c5WLinZUXGvxIAig
 
 ## Sheet
-- **Anna Job Tracker**: _set after creation_ (see below)
+- **Anna Job Tracker** (`.xlsx`, opens in Google Sheets): `1L_bZwgWACkm6IbApnWigLhxZeCE547Kc`
+  https://drive.google.com/file/d/1L_bZwgWACkm6IbApnWigLhxZeCE547Kc/view
+  - Tabs: `Start Here`, `My Job Links` (Anna's input), `Claude-Sourced Jobs`.
+  - Built locally with openpyxl (`/tmp/build_sheet.py` pattern). The Drive
+    integration cannot convert xlsx to a native Google Sheet, so this is an
+    `.xlsx` that opens/edits directly in Google Sheets. To refresh it, rebuild
+    the workbook and re-upload (creates a new file id — update this line).
 
 ## Per-job folders
 - After School Matters - Manager of Events & Donor Relations:
