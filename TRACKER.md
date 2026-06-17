@@ -10,6 +10,9 @@ Status values: `New` · `Filtered out` · `Materials ready` · `Applied` · `Clo
 | Date | Title | Org | Location | Salary | Grade | Cover letter | Status | Materials |
 |------|-------|-----|----------|--------|-------|--------------|--------|-----------|
 | 2026-06-17 | Manager of Events & Donor Relations | After School Matters | Chicago, hybrid | $60,637–$66,909 | A- | Yes (done) | Materials ready | [Folder](https://drive.google.com/drive/folders/1zhiAAVnBn6L7i_VA5XK10L7VKxejZ8_b) · `jobs/after-school-matters-manager-events-donor-relations/` |
+| 2026-06-17 | Admissions Specialist/Advisor | City Colleges of Chicago | Chicago, onsite | $53,512–$58,863 | B | Yes (done, optional) | Materials ready | [Folder](https://drive.google.com/drive/folders/1NLJVoetEYAdsTXgSoSSX_maAHp8aoU69) · `jobs/city-colleges-chicago-admissions-specialist-advisor/` |
+| 2026-06-17 | General Manager | Unknown (npo.net 84727424) | Unknown | Unknown | — | — | Needs job description | Page 403-blocked; search couldn't resolve org/salary/duties. Paste the description to process. |
+| 2026-06-17 | Executive Assistant | Unknown (npo.net 84608567) | Unknown | Unknown | — | — | Needs job description | Page 403-blocked; search couldn't resolve org/salary/duties. Paste the description to process. |
 
 ## Claude-sourced (Claude-Sourced Jobs tab — posted within last 7 days)
 _Populated by `workflows/job-search.md`. Mirrors the sheet's Claude-Sourced tab._

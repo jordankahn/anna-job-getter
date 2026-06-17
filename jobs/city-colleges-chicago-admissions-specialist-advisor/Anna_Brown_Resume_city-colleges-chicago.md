@@ -1,0 +1,59 @@
+# Anna Brown
+Chicago, IL 60640 | 847-395-5749 | anna.brown5749@gmail.com | www.annaleebrown.com
+
+## Summary
+Student-focused administrative and advising professional with a Master's in Arts
+Leadership and Cultural Management and several years supporting students,
+families, and members through enrollment, scheduling, and customer service.
+Experienced in front-line advising, relationship building, and using CRM and
+tracking systems to follow up and keep records accurate. Patient and clear when
+guiding people through programs and answering their questions.
+
+## Skills
+Student support and advising | Admissions and enrollment support | Customer
+service | Relationship building and follow-up | CRM and tracking systems
+(Salesforce) | Scheduling and calendar management (Upace) | Records and data
+management | Program guidance | Communication (phone, email, in person) | Working
+with diverse learners | Google Workspace | Microsoft Office
+
+## Experience
+
+**JCC Chicago — Chicago, IL**
+Operations Coordinator, Community Engagement | Oct 2025 – Present
+- Manage administrative operations for the Community Engagement team, including
+  scheduling, records, and follow-up with families and participants.
+- Develop and run programs and events for families, adults, and seniors, guiding
+  participants through registration and answering their questions.
+- Code and submit invoicing and track inventory using internal systems.
+
+Senior Customer Engagement Representative | Aug 2024 – Oct 2025
+- Served as a front-line point of contact for members and prospective members,
+  answering questions by phone, email, and in person and guiding them through
+  enrollment and membership.
+- Managed membership records, POS transactions, and follow-up, maintaining
+  accurate data and schedules in Salesforce and Upace.
+- Built relationships that supported enrollment, retention, and a positive
+  experience.
+
+Preschool Music Enrichment Teacher | Aug 2024 – Sep 2025
+- Supported students and families and communicated regularly about progress and
+  programming.
+
+**Apachi Day Camps, JCC Chicago — Evanston, IL**
+Unit Head / Music Specialist | Summer 2024 – Summer 2026
+- Supervised staff and supported 80+ students and their families, coordinating
+  schedules and clear communication.
+
+**Beyond Center Stage Performing Arts Academy — Elmhurst, IL**
+Music and Theater Instructor | Jun 2021 – Jun 2023
+- Advised and guided students, managed enrollment and scheduling for classes, and
+  communicated regularly with parents.
+
+## Education
+**Colorado State University (Online)** — M.A., Arts Leadership and Cultural
+Management; Graduate Certificate, Nonprofit Administration
+**Carthage College — Kenosha, WI** — B.A., Music Theatre; Summa Cum Laude (3.9 GPA)
+
+## Awards
+Chicago Chapter NATS Music Theatre Competition, 3rd Place (2x) | Kennedy Center
+American College Theatre Festival, Irene Ryan Semi-Finalist (2020)
