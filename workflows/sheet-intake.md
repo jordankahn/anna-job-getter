@@ -5,12 +5,14 @@ links into tailored materials, and files them in an organized Drive structure.
 
 ## The surfaces
 
-**Google Sheet — "Anna Job Tracker"** (in the `Anna Job Search` Drive folder).
-Three tabs:
-- **Start Here** — instructions.
-- **My Job Links** — *Anna's input.* She pastes one job URL per row.
-- **Claude-Sourced Jobs** — *Claude's output.* Jobs Claude found, posted within
-  the last 7 days (see `workflows/job-search.md`).
+**Google Sheets** (native, in the `Anna Job Search` Drive folder). Two sheets,
+because a multi-tab `.xlsx` can't be reliably uploaded/converted here (see
+`config/drive-locations.md`):
+- **Anna Job Tracker - My Job Links** — *Anna's input.* She pastes one job URL
+  per row. Row 1 holds the instructions.
+- **Anna Job Tracker - Claude-Sourced Jobs** — *Claude's output.* Jobs Claude
+  found, posted within the last 7 days (see `workflows/job-search.md`), each with
+  an apply link.
 
 **Drive folders:**
 ```

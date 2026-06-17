@@ -9,12 +9,12 @@ A lean, AI-assisted job-search command center for **Anna Brown** (Chicago, IL) �
 
 ## How to use it
 
-### Primary flow — the Google Sheet
-Everything runs through one Google Sheet, **"Anna Job Tracker"** (in the
-`Anna Job Search` Drive folder), with three tabs:
-- **Start Here** — instructions.
-- **My Job Links** — *Anna pastes job URLs here*, one per row.
-- **Claude-Sourced Jobs** — *jobs Claude found*, posted within the last 7 days.
+### Primary flow — the Google Sheets
+Two native Google Sheets in the `Anna Job Search` Drive folder (see
+[`config/drive-locations.md`](config/drive-locations.md)):
+- **Anna Job Tracker - My Job Links** — *Anna pastes job URLs here*, one per row.
+- **Anna Job Tracker - Claude-Sourced Jobs** — *jobs Claude found* (posted within
+  the last 7 days), each with an apply link.
 
 Then say **"check the sheet."** Claude reads the **My Job Links** tab, processes
 every new link (see [`workflows/sheet-intake.md`](workflows/sheet-intake.md)), and

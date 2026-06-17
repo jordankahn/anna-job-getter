@@ -9,14 +9,26 @@ regenerated.
 - **Applications**: `1SU6qQ0iKWfMMMz0-c5WLinZUXGvxIAig`
   https://drive.google.com/drive/folders/1SU6qQ0iKWfMMMz0-c5WLinZUXGvxIAig
 
-## Sheet
-- **Anna Job Tracker** (`.xlsx`, opens in Google Sheets): `1L_bZwgWACkm6IbApnWigLhxZeCE547Kc`
-  https://drive.google.com/file/d/1L_bZwgWACkm6IbApnWigLhxZeCE547Kc/view
-  - Tabs: `Start Here`, `My Job Links` (Anna's input), `Claude-Sourced Jobs`.
-  - Built locally with openpyxl (`/tmp/build_sheet.py` pattern). The Drive
-    integration cannot convert xlsx to a native Google Sheet, so this is an
-    `.xlsx` that opens/edits directly in Google Sheets. To refresh it, rebuild
-    the workbook and re-upload (creates a new file id — update this line).
+## Sheets (native Google Sheets — verified working)
+Two native sheets instead of one multi-tab file: the Drive integration can't
+upload a verifiable binary `.xlsx` (no md5 in metadata) or convert xlsx to a
+native Sheet, so a multi-tab workbook corrupted in transit. Native sheets are
+created from CSV text (`contentMimeType: text/csv`), which is reliable and
+read-back verifiable.
+
+- **Anna Job Tracker - My Job Links** (Anna's input): `1jX62iui_TUrsyLEiMKwjlDm9kDRKtGmPSqgb9Hc4mxE`
+  https://docs.google.com/spreadsheets/d/1jX62iui_TUrsyLEiMKwjlDm9kDRKtGmPSqgb9Hc4mxE/edit
+- **Anna Job Tracker - Claude-Sourced Jobs** (Claude's finds, with apply links): `1ays8tt1pTyWzazScQoz9ZehhV869mmwezhf7bLi13hg`
+  https://docs.google.com/spreadsheets/d/1ays8tt1pTyWzazScQoz9ZehhV869mmwezhf7bLi13hg/edit
+
+> DELETE MANUALLY: a broken `Anna Job Tracker.xlsx`
+> (`1L_bZwgWACkm6IbApnWigLhxZeCE547Kc`) was left in the root folder by a failed
+> binary upload. The integration can't delete files; remove it by hand.
+
+### How to refresh a sheet (no in-place cell edits available)
+To update content, rebuild the CSV and create a NEW native sheet, then update the
+id here. (We cannot append rows or edit cells in an existing sheet with the
+current tools.) `tools/build_sheet.py` documents the column layout.
 
 ## Per-job folders
 - After School Matters - Manager of Events & Donor Relations:
