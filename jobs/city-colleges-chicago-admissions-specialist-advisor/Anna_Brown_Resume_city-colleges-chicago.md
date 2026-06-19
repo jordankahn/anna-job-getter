@@ -2,15 +2,15 @@
 Chicago, IL 60640 | 847-395-5749 | anna.brown5749@gmail.com | www.annaleebrown.com
 
 ## Summary
-Student-focused administrative and advising professional with a Master's in Arts
-Leadership and Cultural Management and several years supporting students,
-families, and members through enrollment, scheduling, and customer service.
-Experienced in front-line advising, relationship building, and using CRM and
-tracking systems to follow up and keep records accurate. Patient and clear when
-guiding people through programs and answering their questions.
+Student-focused administrative and customer-service professional with a Master's
+in Arts Leadership and Cultural Management and several years supporting students,
+families, and members through scheduling, registration, and front-line service.
+Skilled in relationship building and using CRM and tracking systems to follow up
+and keep records accurate, with a teaching background that brings patience and
+clear communication to guiding people through programs and answering questions.
 
 ## Skills
-Student support and advising | Admissions and enrollment support | Customer
+Student and customer support | Registration and scheduling support | Customer
 service | Relationship building and follow-up | CRM and tracking systems
 (Salesforce) | Scheduling and calendar management (Upace) | Records and data
 management | Program guidance | Communication (phone, email, in person) | Working
@@ -29,10 +29,10 @@ Operations Coordinator, Community Engagement | Oct 2025 – Present
 Senior Customer Engagement Representative | Aug 2024 – Oct 2025
 - Served as a front-line point of contact for members and prospective members,
   answering questions by phone, email, and in person and guiding them through
-  enrollment and membership.
+  registration and membership.
 - Managed membership records, POS transactions, and follow-up, maintaining
   accurate data and schedules in Salesforce and Upace.
-- Built relationships that supported enrollment, retention, and a positive
+- Built relationships that supported registration, retention, and a positive
   experience.
 
 Preschool Music Enrichment Teacher | Aug 2024 – Sep 2025
