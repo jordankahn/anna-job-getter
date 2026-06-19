@@ -3,41 +3,37 @@ Chicago, IL 60640 | 847-395-5749 | anna.brown5749@gmail.com | www.annaleebrown.c
 
 ## Summary
 Strategic operations and program coordinator with a Master's in Arts Leadership
-and Cultural Management and experience running administrative operations,
-managing Salesforce data, and coordinating complex events and cross-functional
-projects for a mission-driven nonprofit. Detail-oriented and discreet, with
-strong project management, communication, and stewardship-minded relationship
-skills.
+and Cultural Management and experience running administrative operations, managing
+Salesforce data, and coordinating complex events and cross-functional projects for
+a mission-driven nonprofit. Detail-oriented and discreet, with strong project
+management, communication, and relationship-building skills.
 
 ## Skills
 Strategic and program operations | Project and process management | Salesforce /
-CRM data integrity | Pipeline and portfolio tracking | Reporting, metrics, and
-data analytics | Cross-functional coordination and liaison | Briefing and
-materials preparation | Donor and stakeholder relations | Development and
-fundraising operations support | Event and logistics coordination | Executive and
-administrative support | Discretion with sensitive information | Written and
-verbal communication | Microsoft Office (Excel, Word, PowerPoint), Google Workspace
+CRM data management and integrity | Cross-functional coordination | Briefing and
+materials preparation | Stakeholder and community-partner relations | Event and
+logistics coordination | Reporting and tracking | Executive and administrative
+support | Discretion with sensitive information | Written and verbal communication
+| Microsoft Office (Excel, Word, PowerPoint), Google Workspace
 
 ## Experience
 
 **JCC Chicago — Chicago, IL**
 Operations Coordinator, Community Engagement | Oct 2025 – Present
 - Run all administrative operations for the Community Engagement team, building
-  systems, schedules, trackers, and pipelines that keep multi-layered projects on
-  time and provide clear tracking metrics.
+  systems, schedules, and trackers that keep multi-layered projects on time.
 - Manage data and records in Salesforce, maintaining accuracy and integrity
   across constituent information.
 - Co-direct the annual Jewish Chicago Film Festival, coordinating logistics,
   partners, and stakeholders across teams and preparing materials and
   communications.
-- Serve as a liaison across departments to deliver programs and events for
-  diverse audiences and align cross-functional deliverables.
+- Coordinate across departments to deliver programs and events for diverse
+  audiences.
 
 Senior Customer Engagement Representative | Aug 2024 – Oct 2025
 - Maintained constituent records and sensitive member information with discretion
   in Salesforce.
-- Coordinated schedules and communications and supported relationship-building
-  and stewardship.
+- Coordinated schedules and communications and supported relationship-building.
 
 **Apachi Day Camps, JCC Chicago — Evanston, IL**
 Unit Head | Summer 2026
@@ -46,7 +42,9 @@ Unit Head | Summer 2026
 
 **Beyond Center Stage Performing Arts Academy — Elmhurst, IL**
 Music and Theater Instructor | Jun 2021 – Jun 2023
-- Managed scheduling, invoicing, and client communication for a private studio.
+- Taught private voice, piano, and violin and led acting and musical theater
+  classes, creating lesson plans; handled scheduling, invoicing, and family
+  communication.
 
 ## Education
 **Colorado State University (Online)** — M.A., Arts Leadership and Cultural

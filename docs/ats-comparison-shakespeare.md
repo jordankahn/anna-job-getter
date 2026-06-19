@@ -5,10 +5,17 @@ sections, keyword-match vs the Donor Services Associate JD). See `tools/`.
 
 | Metric | Anna's actual two-column resume | ATS-optimized version |
 |---|---|---|
-| Keyword match vs JD | **12%** (5/41) | **78%** |
+| Keyword match vs JD | **12%** (5/41) | **44%** (honest, corrected) |
 | Standard sections detected | 3/5 (no Summary) | 5/5 |
 | Email / phone parsed | yes / yes | yes / yes |
 | Layout | two-column PDF (garbled spacing, side-column risk) | single column, clean text |
+
+> Correction note: an earlier version of the optimized resume scored 78%, but
+> that number was inflated by keyword claims that overstated Anna's experience
+> (donor/gift/pledge/stewardship/campaign/fundraising language she has not
+> actually done). Those were removed. The honest, truthful version scores 44% —
+> lower, but real — and still beats the original two-column resume on both
+> parseability and keyword fit. Accuracy over score.
 
 ## Honest read
 The gap is TWO stacked effects, not one:

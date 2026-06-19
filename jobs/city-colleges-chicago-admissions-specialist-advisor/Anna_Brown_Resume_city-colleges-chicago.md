@@ -46,8 +46,9 @@ Unit Head / Music Specialist | Summer 2024 – Summer 2026
 
 **Beyond Center Stage Performing Arts Academy — Elmhurst, IL**
 Music and Theater Instructor | Jun 2021 – Jun 2023
-- Advised and guided students, managed enrollment and scheduling for classes, and
-  communicated regularly with parents.
+- Taught private voice, piano, and violin and led acting and musical theater
+  classes, creating lesson plans for beginner and intermediate students.
+- Handled scheduling and family communication for lessons and classes.
 
 ## Education
 **Colorado State University (Online)** — M.A., Arts Leadership and Cultural
