@@ -10,9 +10,11 @@ because a multi-tab `.xlsx` can't be reliably uploaded/converted here (see
 `config/drive-locations.md`):
 - **Anna Job Tracker - My Job Links** — *Anna's input.* She pastes one job URL
   per row. Row 1 holds the instructions.
-- **Anna Job Tracker - Claude-Sourced Jobs** — *Claude's output.* Jobs Claude
-  found, posted within the last 7 days (see `workflows/job-search.md`), each with
-  an apply link.
+- **Anna Job Tracker - Job Boards to Check** — live "sort by newest" board links
+  Anna skims in a browser, then pastes good ones into My Job Links. (This
+  replaces auto-sourcing: automated discovery returns stale/dead links here
+  because boards 403-block fetch and the search index lags. See
+  `search-results/2026-06-19-search.md`.)
 
 **Drive folders:**
 ```

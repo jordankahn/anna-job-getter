@@ -13,10 +13,16 @@ A lean, AI-assisted job-search command center for **Anna Brown** (Chicago, IL) �
 Two native Google Sheets in the `Anna Job Search` Drive folder (see
 [`config/drive-locations.md`](config/drive-locations.md)):
 - **Anna Job Tracker - My Job Links** — *Anna pastes job URLs here*, one per row.
-- **Anna Job Tracker - Claude-Sourced Jobs** — *jobs Claude found* (posted within
-  the last 7 days), each with an apply link.
+- **Anna Job Tracker - Job Boards to Check** — live "sort by newest" board links
+  to skim in a browser, then paste good ones into My Job Links.
 
-Then say **"check the sheet."** Claude reads the **My Job Links** tab, processes
+Then say **"check the sheet."**
+
+> **Sourcing reality:** automated job *discovery* is unreliable here — the niche
+> boards 403-block direct fetch and the web-search index lags by weeks, so
+> "sourced" links are usually stale/already unpublished. The working model is
+> human-in-the-loop discovery (skim live boards, paste links) + Claude doing the
+> tailoring/packaging. See `search-results/2026-06-19-search.md`. Claude reads the **My Job Links** tab, processes
 every new link (see [`workflows/sheet-intake.md`](workflows/sheet-intake.md)), and
 files tailored materials in an organized Drive structure:
 ```

@@ -16,10 +16,17 @@ native Sheet, so a multi-tab workbook corrupted in transit. Native sheets are
 created from CSV text (`contentMimeType: text/csv`), which is reliable and
 read-back verifiable.
 
-- **Anna Job Tracker - My Job Links** (Anna's input): `1jX62iui_TUrsyLEiMKwjlDm9kDRKtGmPSqgb9Hc4mxE`
+- **Anna Job Tracker - My Job Links** (Anna's input — paste live links here): `1jX62iui_TUrsyLEiMKwjlDm9kDRKtGmPSqgb9Hc4mxE`
   https://docs.google.com/spreadsheets/d/1jX62iui_TUrsyLEiMKwjlDm9kDRKtGmPSqgb9Hc4mxE/edit
-- **Anna Job Tracker - Claude-Sourced Jobs** (Claude's finds, with apply links): `1ays8tt1pTyWzazScQoz9ZehhV869mmwezhf7bLi13hg`
-  https://docs.google.com/spreadsheets/d/1ays8tt1pTyWzazScQoz9ZehhV869mmwezhf7bLi13hg/edit
+- **Anna Job Tracker - Job Boards to Check** (live "sort by newest" board links to skim in a browser): `1-tyV2YwSAPFlA6gbpmvGIjn1bD1ZVN8e11QW1uEi19s`
+  https://docs.google.com/spreadsheets/d/1-tyV2YwSAPFlA6gbpmvGIjn1bD1ZVN8e11QW1uEi19s/edit
+
+> DELETE MANUALLY (stale): the old **Anna Job Tracker - Claude-Sourced Jobs**
+> sheet (`1ays8tt1pTyWzazScQoz9ZehhV869mmwezhf7bLi13hg`) was built from search-index
+> data whose links are now unpublished/dead. Replaced by "Job Boards to Check".
+> Automated sourcing is unreliable here (boards 403-block fetch; search index lags),
+> so the model is: skim live boards in a browser -> paste links into My Job Links
+> -> Claude processes them.
 
 > DELETE MANUALLY: a broken `Anna Job Tracker.xlsx`
 > (`1L_bZwgWACkm6IbApnWigLhxZeCE547Kc`) was left in the root folder by a failed
