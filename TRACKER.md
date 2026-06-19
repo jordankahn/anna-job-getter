@@ -13,6 +13,9 @@ Status values: `New` · `Filtered out` · `Materials ready` · `Applied` · `Clo
 | 2026-06-17 | Admissions Specialist/Advisor | City Colleges of Chicago | Chicago, onsite | $53,512–$58,863 | B | Yes (done, optional) | Materials ready | [Folder](https://drive.google.com/drive/folders/1NLJVoetEYAdsTXgSoSSX_maAHp8aoU69) · `jobs/city-colleges-chicago-admissions-specialist-advisor/` |
 | 2026-06-17 | General Manager | Grant Park Music Festival | Chicago, hybrid | $135,000–$145,000 | D (reach) | Yes (done) | Materials ready (reach) | [Folder](https://drive.google.com/drive/folders/1oVRFc70gq8ojnJysKp1m18eaGbjWEzc3) · `jobs/grant-park-music-festival-general-manager/` — stretch; major gaps (7+ yrs senior leadership, labor relations). |
 | 2026-06-17 | Executive Assistant | Unknown (npo.net 84608567) | Unknown | Unknown | — | — | Needs job description | Page 403-blocked; search couldn't resolve org/salary/duties. Paste the description to process. |
+| 2026-06-18 | Senior Associate, Principal Gifts & Engagement | Obama Presidential Center | Chicago | ~$111k (est) | — | — | Needs job description | Workday page 403-blocked. Likely a senior fundraising stretch (principal gifts). Paste the JD to process as a reach. |
+| 2026-06-18 | Unknown role | Unknown (Paycom #403912) | Unknown | Unknown | — | — | Needs job description | Paycom only hosts the ATS; couldn't resolve employer/title. Paste the description. |
+| 2026-06-18 | Unknown role (#41) | Growing Home (Chicago/Englewood) | Chicago | Unknown | — | — | Needs job description | BambooHR page 403-blocked; role title/details unknown. Paste the description. |
 
 ## Claude-sourced (Claude-Sourced Jobs tab — posted within last 7 days)
 _Populated by `workflows/job-search.md`. Mirrors the sheet's Claude-Sourced tab._
