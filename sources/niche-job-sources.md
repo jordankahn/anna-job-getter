@@ -4,6 +4,16 @@ Specialized boards and org career pages that surface roles the generic
 LinkedIn/Indeed feed misses. Work these first. (Standing pre-filtered search URLs
 are added by the search workflow as they are verified.)
 
+## Best general aggregator (start here, in a browser)
+- **hiring.cafe** — aggregates real, employer-posted jobs straight from company
+  ATS (Greenhouse, Lever, Workable, Workday, BambooHR) and career pages. Strong
+  filters: salary, location, remote, **date posted**, seniority. Direct-apply
+  links, no recruiter spam — the freshest, cleanest discovery surface for Anna.
+  Claude can't query it (Cloudflare + egress allowlist), so Anna filters it in a
+  browser (salary 50k+, Chicago + Remote, posted last 7 days, full-time) and
+  pastes good links into the sheet. Its ATS apply links are also the easiest for
+  Claude to read and tailor from.
+
 ## Arts administration / cultural sector
 - **Arts Alliance Illinois** — statewide arts job board.
 - **Chicago Artists Coalition (CAC)** — arts jobs + opportunities.

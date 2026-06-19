@@ -18,12 +18,12 @@ read-back verifiable.
 
 - **Anna Job Tracker - My Job Links** (Anna's input — paste live links here): `1jX62iui_TUrsyLEiMKwjlDm9kDRKtGmPSqgb9Hc4mxE`
   https://docs.google.com/spreadsheets/d/1jX62iui_TUrsyLEiMKwjlDm9kDRKtGmPSqgb9Hc4mxE/edit
-- **Anna Job Tracker - Job Boards to Check** (live "sort by newest" board links to skim in a browser): `1-tyV2YwSAPFlA6gbpmvGIjn1bD1ZVN8e11QW1uEi19s`
-  https://docs.google.com/spreadsheets/d/1-tyV2YwSAPFlA6gbpmvGIjn1bD1ZVN8e11QW1uEi19s/edit
+- **Anna Job Tracker - Job Boards to Check** (live board links to skim in a browser; hiring.cafe featured first): `1kt0xYGHqNfuAelLPioZPQMyMM5JitShjrCYNvIfaQhE`
+  https://docs.google.com/spreadsheets/d/1kt0xYGHqNfuAelLPioZPQMyMM5JitShjrCYNvIfaQhE/edit
 
-> DELETE MANUALLY (stale): the old **Anna Job Tracker - Claude-Sourced Jobs**
-> sheet (`1ays8tt1pTyWzazScQoz9ZehhV869mmwezhf7bLi13hg`) was built from search-index
-> data whose links are now unpublished/dead. Replaced by "Job Boards to Check".
+> DELETE MANUALLY (superseded/stale):
+> - old **Claude-Sourced Jobs** sheet `1ays8tt1pTyWzazScQoz9ZehhV869mmwezhf7bLi13hg` (dead links)
+> - first **Job Boards to Check** sheet `1-tyV2YwSAPFlA6gbpmvGIjn1bD1ZVN8e11QW1uEi19s` (replaced by the hiring.cafe version above)
 > Automated sourcing is unreliable here (boards 403-block fetch; search index lags),
 > so the model is: skim live boards in a browser -> paste links into My Job Links
 > -> Claude processes them.
