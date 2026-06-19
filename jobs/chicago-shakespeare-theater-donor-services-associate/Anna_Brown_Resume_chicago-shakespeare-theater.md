@@ -5,19 +5,21 @@ Chicago, IL 60640 | 847-395-5749 | anna.brown5749@gmail.com | www.annaleebrown.c
 Detail-oriented administrative and donor services professional with a Master's in
 Arts Leadership and Cultural Management and hands-on experience managing CRM
 records, memberships, and constituent relationships for a Chicago cultural
-nonprofit. Skilled in data accuracy, gift and payment processing, donor and
-member communication, and event support, with a genuine commitment to the arts.
+nonprofit. Skilled in data integrity and accuracy, gift and payment processing,
+fundraising operations, donor and member communication, and event support, with a
+genuine commitment to the arts.
 Comfortable in Salesforce and other database systems and known for careful
 follow-up and warm, professional service.
 
 ## Skills
 Donor services and stewardship support | Relational database management
-(Salesforce; quick to learn Tessitura) | Gift, pledge, and payment processing |
-Acknowledgments and donor recognition | Data hygiene and records management |
-Reporting, list building, and segmentation | Ticketing and patron services
-(Eventive) | Membership management | Donor and member communications |
-Development and gala event support | Customer service | Invoicing and
-reconciliation (Stampli) | Microsoft Office (Excel, Word)
+(Salesforce; quick to learn Tessitura) | Processing gifts, pledges, and payments |
+Acknowledgments and donor recognition | Data hygiene, data integrity, and records
+management | Campaign and appeal coding and reporting | Reporting, list building,
+and segmentation | Ticketing and patron services (Eventive) | Membership
+management | Donor and member communications | Fundraising and development
+operations support | Gala and donor event support | Customer service | Invoicing
+and reconciliation with finance (Stampli) | Microsoft Office (Excel, Word)
 
 ## Experience
 
@@ -25,8 +27,8 @@ reconciliation (Stampli) | Microsoft Office (Excel, Word)
 Operations Coordinator, Community Engagement | Oct 2025 – Present
 - Manage administrative operations and accurate records for the Community
   Engagement team using internal systems.
-- Code and submit invoicing and process financial transactions, maintaining
-  careful data accuracy.
+- Code and submit invoicing and reconcile financial transactions with the finance
+  team, maintaining data integrity and accuracy.
 - Co-direct the annual Jewish Chicago Film Festival, building and managing
   ticketing in Eventive and supporting event logistics, guest coordination, and
   community-partner and donor relationships.

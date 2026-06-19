@@ -11,25 +11,27 @@ skills.
 
 ## Skills
 Strategic and program operations | Project and process management | Salesforce /
-CRM data integrity | Cross-functional coordination | Briefing and materials
-preparation | Donor and stakeholder relations | Event and logistics coordination
-| Reporting and tracking | Executive and administrative support | Discretion with
-sensitive information | Written and verbal communication | Microsoft Office,
-Google Workspace
+CRM data integrity | Pipeline and portfolio tracking | Reporting, metrics, and
+data analytics | Cross-functional coordination and liaison | Briefing and
+materials preparation | Donor and stakeholder relations | Development and
+fundraising operations support | Event and logistics coordination | Executive and
+administrative support | Discretion with sensitive information | Written and
+verbal communication | Microsoft Office (Excel, Word, PowerPoint), Google Workspace
 
 ## Experience
 
 **JCC Chicago — Chicago, IL**
 Operations Coordinator, Community Engagement | Oct 2025 – Present
 - Run all administrative operations for the Community Engagement team, building
-  systems, schedules, and trackers that keep multi-layered projects on time.
+  systems, schedules, trackers, and pipelines that keep multi-layered projects on
+  time and provide clear tracking metrics.
 - Manage data and records in Salesforce, maintaining accuracy and integrity
   across constituent information.
 - Co-direct the annual Jewish Chicago Film Festival, coordinating logistics,
   partners, and stakeholders across teams and preparing materials and
   communications.
-- Partner with colleagues across departments to deliver programs and events for
-  diverse audiences.
+- Serve as a liaison across departments to deliver programs and events for
+  diverse audiences and align cross-functional deliverables.
 
 Senior Customer Engagement Representative | Aug 2024 – Oct 2025
 - Maintained constituent records and sensitive member information with discretion
